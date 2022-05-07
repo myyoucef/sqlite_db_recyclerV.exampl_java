@@ -4,4 +4,4 @@ An OptionMenu and a ContextMenu are also implemented in this example.
 
 
 
-![alt text](https://github.com/myyoucef/sqlite_db_recyclerV.exampl_java/blob/a11c93e2848ff56767827379c04aa38744f85848/Capture%202022-05-07%20222352.png?raw=true)
+![alt text](https://github.com/myyoucef/sqlite_db_recyclerV.exampl_java/blob/a45ef83a8380251f0fd9fdb6bb0ed371f5badb61/Capture2022-05-07.222352.png?raw=true)
