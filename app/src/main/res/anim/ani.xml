@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
-    <translate
-        android:fromXDelta="-100%"
-        android:toXDelta="0%"
-        android:duration="500"/>
+<!--    <translate-->
+<!--        android:fromXDelta="-100%"-->
+<!--        android:toXDelta="0%"-->
+<!--        android:duration="500"/>-->
     <alpha
         android:fromAlpha="0"
         android:toAlpha="1"
         android:duration="800"/>
-<!--    <rotate-->
-<!--        android:fromDegrees="45"-->
-<!--        android:toDegrees="0"-->
-<!--        android:duration="600"/>-->
+    <scale
+        android:fromYScale="0"
+        android:fromXScale="0"
+        android:toYScale="1"
+        android:toXScale="1"
+        android:duration="500"/>
+    <rotate
+        android:fromDegrees="45"
+        android:toDegrees="0"
+        android:duration="500"/>
 </set>
