@@ -6,7 +6,7 @@
         android:id="@+id/deleteAll"
         android:icon="@android:drawable/ic_menu_delete"
         android:title="Delete all"
-        app:showAsAction="always" />
+        app:showAsAction="never" />
     <item
         android:id="@+id/addE"
         android:title="Add" />

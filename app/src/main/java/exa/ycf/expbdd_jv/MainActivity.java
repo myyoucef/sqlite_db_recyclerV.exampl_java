@@ -126,6 +126,7 @@ public class MainActivity extends AppCompatActivity {
         AlertDialog.Builder dlg = new AlertDialog.Builder(MainActivity.this);
         dlg.setTitle("Confirmation");
         dlg.setMessage("Are you sure you want to remove all ?");
+        dlg.setIcon(R.drawable.ic_b);
         dlg.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {
